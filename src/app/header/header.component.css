@@ -1,0 +1,12 @@
+h1{
+    color: crimson;
+}
+
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+
+.example-disabled {
+  display: inline-block;
+}
